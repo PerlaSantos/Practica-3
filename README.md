@@ -33,7 +33,3 @@ Los AFD utilizados y los NFA obtenidos en JFLAP están en `automatas/practica3/a
 ## Ejecución y pruebas del simulador
 
 El repositorio conserva los archivos base del simulador y sus pruebas automatizadas. Para ejecutarlas, instala las dependencias con `pip install -r requirements.txt` y ejecuta `pytest -q`.
-
-## Etiqueta de entrega
-
-La etiqueta de Git de esta entrega es `practica3`.
