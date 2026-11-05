@@ -24,7 +24,7 @@
 2. [Extensión del software interactivo](https://github.com/tynon6/Practica-2/blob/main/docs/practica3/02-software.md)
 3. [Documentación de los algoritmos](https://github.com/tynon6/Practica-2/blob/main/docs/practica3/03-algoritmos.md)
 
-[![Integración Continua - Práctica 3](https://github.com/tynon6/Practica-2/actions/workflows/pruebas.yml/badge.svg)](https://github.com/tynon6/Practica-2/actions/workflows/pruebas.yml)
+[![Integración Continua - Práctica 3](https://github.com/PerlaSantos/Practica-3/actions/workflows/pruebas.yml/badge.svg)](https://github.com//PerlaSantos/Practica-3/actions/workflows/pruebas.yml)
 
 Proyecto para el procesamiento y análisis de lenguajes formales y autómatas finitos, implementado en Python puro, con pruebas automatizadas mediante GitHub Actions (Python 3.11, 3.12 y 3.13) y contenerización con Docker. Esta práctica añade, sobre el simulador de la Práctica 2, los algoritmos que transforman un AFN con transiciones λ en un AFD mínimo, cada uno mostrado paso a paso en la interfaz.
 
@@ -39,8 +39,8 @@ Proyecto para el procesamiento y análisis de lenguajes formales y autómatas fi
 1. Clonar el repositorio:
 
    ```bash
-   git clone https://github.com/tynon6/Practica-2.git
-   cd Practica-2
+   git clone https://github.com/PerlaSantos/Practica-3.git
+   cd Practica-3
    ```
 
 2. Instalar las dependencias:
@@ -76,7 +76,7 @@ docker compose up py312      # abrir http://localhost:8550
 
 ## Funciones nuevas de la Práctica 3
 
-Todas están en `src/algoritmos.py` (Python puro, sin Flet) y se muestran en la sección «Práctica 3» de la interfaz, al final de la página. Las rutas de los archivos se escriben respecto a la carpeta del repositorio (en el contenedor, `/app`).
+Todas están en `src/algoritmos.py` y se muestran en la sección «Práctica 3» de la interfaz, al final de la página. Las rutas de los archivos se escriben respecto a la carpeta del repositorio (en el contenedor, `/app`).
 
 ### Uso desde la interfaz
 
