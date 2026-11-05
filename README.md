@@ -61,6 +61,9 @@ Proyecto para el procesamiento y análisis de lenguajes formales y autómatas fi
    python src/app.py
    ```
 
+
+
+
 ### Con contenedores
 
 ```bash
