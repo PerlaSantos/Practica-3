@@ -20,8 +20,6 @@
 
 ## Contenido de la entrega
 
-Esta entrega incluye únicamente el punto 1 de la práctica: conversión de AFD a expresiones regulares y los cálculos solicitados.
-
 - [Punto 1.1: conversiones de los ejercicios 151–155](docs/practica3/01-afd-a-er-jflap.md)
 - [Punto 1.2: cálculos de la recurrencia](docs/practica3/02-calculos-Rij.md)
 - [Capturas y comprobaciones](evidencias/practica3/afd-a-er/README.md)
